@@ -22,5 +22,5 @@ async def on_message(message):
       else:
         await message.channel.send(tmp[1])
 
-client.run("MTA0MDgxMTI2ODMyMTMxMjc5MQ.GN3afr.PVrpua_NRmHrgafgWEtqzbkiZpMwwRYARmtqnc")
+client.run("MTA0MDgxMTI2ODMyMTMxMjc5MQ.GzAwLA.Z__h2dNTXz3073TsgAZBoB8p0p0v3aJU9Y5uXY")
 #在Token位放你的Token
